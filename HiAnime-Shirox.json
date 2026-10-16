@@ -10,7 +10,7 @@
   "quality": "Auto",
   "baseUrl": "https://hianime.at",
   "searchBaseUrl": "https://hianime.at/search?keyword=%s",
-  "scriptUrl": "https://raw.githubusercontent.com/TEU_UTILIZADOR/shirox-modules/main/HiAnime-Shirox.js",
+  "scriptUrl": "https://raw.githubusercontent.com/fenomp12/HiAnime-module/main/HiAnime-Shirox.js",
   "type": "anime",
   "asyncJS": true,
   "streamAsyncJS": false,
